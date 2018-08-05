@@ -1,5 +1,6 @@
 ## Exchange Web Service with DotNet Core
 Simple Exchange Web Service API for Fetching Inbox  
+[![Build Status](https://travis-ci.org/code-verse/ews-fetcher-dotnet-core.svg?branch=master)](https://travis-ci.org/code-verse/ews-fetcher-dotnet-core)
 
   
 ### Configuration Variables
