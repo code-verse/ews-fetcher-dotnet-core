@@ -1,0 +1,22 @@
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/bin/Debug/netcoreapp2.1/ewsfetcher.deps.json
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/bin/Debug/netcoreapp2.1/ewsfetcher.runtimeconfig.json
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/bin/Debug/netcoreapp2.1/ewsfetcher.runtimeconfig.dev.json
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/bin/Debug/netcoreapp2.1/ewsfetcher.dll
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/bin/Debug/netcoreapp2.1/ewsfetcher.pdb
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/obj/Debug/netcoreapp2.1/ewsfetcher.csprojAssemblyReference.cache
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/obj/Debug/netcoreapp2.1/ewsfetcher.csproj.CoreCompileInputs.cache
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/obj/Debug/netcoreapp2.1/ewsfetcher.AssemblyInfoInputs.cache
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/obj/Debug/netcoreapp2.1/ewsfetcher.AssemblyInfo.cs
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/obj/Debug/netcoreapp2.1/ewsfetcher.dll
+/Users/phillip/Works/Sources/Codeverse/dotnet/ewsfetcher/obj/Debug/netcoreapp2.1/ewsfetcher.pdb
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\bin\Debug\netcoreapp2.1\ewsfetcher.deps.json
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\bin\Debug\netcoreapp2.1\ewsfetcher.runtimeconfig.json
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\bin\Debug\netcoreapp2.1\ewsfetcher.runtimeconfig.dev.json
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\bin\Debug\netcoreapp2.1\ewsfetcher.dll
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\bin\Debug\netcoreapp2.1\ewsfetcher.pdb
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\obj\Debug\netcoreapp2.1\ewsfetcher.csprojAssemblyReference.cache
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\obj\Debug\netcoreapp2.1\ewsfetcher.csproj.CoreCompileInputs.cache
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\obj\Debug\netcoreapp2.1\ewsfetcher.AssemblyInfoInputs.cache
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\obj\Debug\netcoreapp2.1\ewsfetcher.AssemblyInfo.cs
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\obj\Debug\netcoreapp2.1\ewsfetcher.dll
+C:\Users\phillip\Documents\Projects\Open Source\ews-fetcher-dotnet-core\obj\Debug\netcoreapp2.1\ewsfetcher.pdb
